@@ -16,4 +16,4 @@ Easily receive SMS codes for services like **WhatsApp**, **Telegram**, **Instagr
 You can clone this repository to your project:
 
 ```bash
-git clone [https://github.com/kullaniciadin/sms-onayla-api-client.git](https://github.com/kullaniciadin/sms-onayla-api-client.git)
+git clone [https://github.com/smsonaylacom/sms-onayla-api-client.git](https://github.com/smsonaylacom/sms-onayla-api-client.git)
